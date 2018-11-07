@@ -134,8 +134,6 @@
       <DependentUpon>MainFormStrings.en.resx</DependentUpon>
     </Compile>
     <Compile Include="Plugins\ComboCalculator.cs" />
-    <Compile Include="Plugins\IPlugin.cs" />
-    <Compile Include="Plugins\IScorePlugin.cs" />
     <Compile Include="Plugins\PluginManager.cs" />
     <Compile Include="Settings.cs" />
     <Compile Include="UI\BookPropertiesForm.cs">
